@@ -1,4 +1,4 @@
-<HEAD><TITLE>PicMe Install</TITLE></HEAD>
+<HEAD><TITLE>Pics Install</TITLE></HEAD>
 <?PHP
 /*
 #
@@ -29,14 +29,7 @@ if ($step == 0) {
           <tr> 
 	      <td><IMG SRC="../images/logow.gif" BORDER="0"></td>
             <td bgcolor="#DAE0EF"> 
-              <p><font face="Trebuchet MS, Verdana, Arial" size="2"><b>PicMe 
-                License Required Per Install</b><br>
-                <font size="1">To install PicMe you must have a valid license 
-                obtained from DirectFreelance.com - By completing this installation process 
-                the location of this installation and your IP address will be sent to the PicMe 
-                Team for review. If you are in any doubt about the validity or 
-                the source of this license please contact <A HREF="mailto:rob@DirectFreelance.com?subject=PicMe Install">rob@DirectFreelance.com</A> prior 
-                to completing the installation.</font></font></p>
+              Pics uses php 5.4
             </td>
           </tr>
         </table>
