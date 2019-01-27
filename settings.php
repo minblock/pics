@@ -9,9 +9,9 @@
 /* DB VARIABLES*/
 $dbhost 	= "localhost";
 $dbuser 	= "picme";
-$dbpass 	= "StcaMMP8IHMmR3go";
+$dbpass 	= "";
 $dbname 	= "picme";
-$adminpass 	= "mK6rTzDjkNeWPytPVkXvDhtM";
+$adminpass 	= "";
 
 /* INFORMATION */
 $ip 		= GetHostByName($REMOTE_ADDR); 
